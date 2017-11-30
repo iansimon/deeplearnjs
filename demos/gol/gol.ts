@@ -15,7 +15,7 @@
  * =============================================================================
  */
 
-import {Array2D, NDArrayMathGPU, Session, Graph} from 'deeplearn';
+import {Array2D, NDArray, NDArrayMathGPU, Session, Graph} from 'deeplearn';
 
 /**
  *
