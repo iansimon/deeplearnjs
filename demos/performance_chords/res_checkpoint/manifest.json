@@ -1,0 +1,205 @@
+{
+  "beta1_power": {
+    "filename": "beta1_power", 
+    "shape": []
+  }, 
+  "beta2_power": {
+    "filename": "beta2_power", 
+    "shape": []
+  }, 
+  "fully_connected/biases": {
+    "filename": "fully_connected_biases", 
+    "shape": [
+      128
+    ]
+  }, 
+  "fully_connected/biases/Adam": {
+    "filename": "fully_connected_biases_Adam", 
+    "shape": [
+      128
+    ]
+  }, 
+  "fully_connected/biases/Adam_1": {
+    "filename": "fully_connected_biases_Adam_1", 
+    "shape": [
+      128
+    ]
+  }, 
+  "fully_connected/weights": {
+    "filename": "fully_connected_weights", 
+    "shape": [
+      441, 
+      128
+    ]
+  }, 
+  "fully_connected/weights/Adam": {
+    "filename": "fully_connected_weights_Adam", 
+    "shape": [
+      441, 
+      128
+    ]
+  }, 
+  "fully_connected/weights/Adam_1": {
+    "filename": "fully_connected_weights_Adam_1", 
+    "shape": [
+      441, 
+      128
+    ]
+  }, 
+  "fully_connected_1/biases": {
+    "filename": "fully_connected_1_biases", 
+    "shape": [
+      364
+    ]
+  }, 
+  "fully_connected_1/biases/Adam": {
+    "filename": "fully_connected_1_biases_Adam", 
+    "shape": [
+      364
+    ]
+  }, 
+  "fully_connected_1/biases/Adam_1": {
+    "filename": "fully_connected_1_biases_Adam_1", 
+    "shape": [
+      364
+    ]
+  }, 
+  "fully_connected_1/weights": {
+    "filename": "fully_connected_1_weights", 
+    "shape": [
+      128, 
+      364
+    ]
+  }, 
+  "fully_connected_1/weights/Adam": {
+    "filename": "fully_connected_1_weights_Adam", 
+    "shape": [
+      128, 
+      364
+    ]
+  }, 
+  "fully_connected_1/weights/Adam_1": {
+    "filename": "fully_connected_1_weights_Adam_1", 
+    "shape": [
+      128, 
+      364
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_0/lstm_cell/bias": {
+    "filename": "rnn_multi_rnn_cell_cell_0_lstm_cell_bias", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_0/lstm_cell/bias/Adam": {
+    "filename": "rnn_multi_rnn_cell_cell_0_lstm_cell_bias_Adam", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_0/lstm_cell/bias/Adam_1": {
+    "filename": "rnn_multi_rnn_cell_cell_0_lstm_cell_bias_Adam_1", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_0/lstm_cell/kernel": {
+    "filename": "rnn_multi_rnn_cell_cell_0_lstm_cell_kernel", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_0/lstm_cell/kernel/Adam": {
+    "filename": "rnn_multi_rnn_cell_cell_0_lstm_cell_kernel_Adam", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_0/lstm_cell/kernel/Adam_1": {
+    "filename": "rnn_multi_rnn_cell_cell_0_lstm_cell_kernel_Adam_1", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_1/lstm_cell/bias": {
+    "filename": "rnn_multi_rnn_cell_cell_1_lstm_cell_bias", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_1/lstm_cell/bias/Adam": {
+    "filename": "rnn_multi_rnn_cell_cell_1_lstm_cell_bias_Adam", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_1/lstm_cell/bias/Adam_1": {
+    "filename": "rnn_multi_rnn_cell_cell_1_lstm_cell_bias_Adam_1", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_1/lstm_cell/kernel": {
+    "filename": "rnn_multi_rnn_cell_cell_1_lstm_cell_kernel", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_1/lstm_cell/kernel/Adam": {
+    "filename": "rnn_multi_rnn_cell_cell_1_lstm_cell_kernel_Adam", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_1/lstm_cell/kernel/Adam_1": {
+    "filename": "rnn_multi_rnn_cell_cell_1_lstm_cell_kernel_Adam_1", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_2/lstm_cell/bias": {
+    "filename": "rnn_multi_rnn_cell_cell_2_lstm_cell_bias", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_2/lstm_cell/bias/Adam": {
+    "filename": "rnn_multi_rnn_cell_cell_2_lstm_cell_bias_Adam", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_2/lstm_cell/bias/Adam_1": {
+    "filename": "rnn_multi_rnn_cell_cell_2_lstm_cell_bias_Adam_1", 
+    "shape": [
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_2/lstm_cell/kernel": {
+    "filename": "rnn_multi_rnn_cell_cell_2_lstm_cell_kernel", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_2/lstm_cell/kernel/Adam": {
+    "filename": "rnn_multi_rnn_cell_cell_2_lstm_cell_kernel_Adam", 
+    "shape": [
+      256, 
+      512
+    ]
+  }, 
+  "rnn/multi_rnn_cell/cell_2/lstm_cell/kernel/Adam_1": {
+    "filename": "rnn_multi_rnn_cell_cell_2_lstm_cell_kernel_Adam_1", 
+    "shape": [
+      256, 
+      512
+    ]
+  }
+}
